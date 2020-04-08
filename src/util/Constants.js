@@ -40,7 +40,7 @@ exports.DefaultOptions = {
   messageCacheMaxSize: 200,
   messageCacheLifetime: 0,
   messageSweepInterval: 0,
-  fetchAllMembers: false,
+  fetchAllMembers: true,
   disableEveryone: true,
   sync: false,
   restWsBridgeTimeout: 5000,
